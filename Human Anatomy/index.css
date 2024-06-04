@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+   
+    font-family: fantasy;
+   
+    color: aliceblue;
+   
+
+    
+}
+h2 {
+    color: aliceblue;
+} 
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: white ; 
+}
+
+.volumes {
+    color : purple ;
+}
